@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
