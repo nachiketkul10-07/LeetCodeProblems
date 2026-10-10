@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/nachiketkul10-07/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 ## Newton's Method
 |  |
 | ------- |
